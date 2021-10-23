@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/01第一部分：介绍/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/02第二部分：开始/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/02第二部分：开始/ch2_section_1.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/02第二部分：开始/ch2_section_2.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/03第三部分：例子/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/03第三部分：例子/ch3_code_highlight.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/03第三部分：例子/ch3_hint_callout.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/03第三部分：例子/ch3_structure_list.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/附录/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/附录/reference.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>

@@ -1,0 +1,7 @@
+{
+    "bookname": "Go语言——面向Offer学习编程",
+    "outputfile": "SUMMARY.md",
+    "catalog": "all",  // 如 [chapter1，chapter2, ...]
+    "ignores": "[src]",
+    "unchanged": [] // 如: ['myApp'] -> `myApp` not `My App`
+}
